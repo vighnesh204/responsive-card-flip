@@ -32,4 +32,4 @@ Hover (or tap) the card to see a smooth 3D flip animation, revealing the back of
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/vighnesh204/responsive-card-flip.git
